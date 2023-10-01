@@ -15,6 +15,23 @@ let stud2 = " Sultan";
 let stud3 = stud1+stud2;
 console.log(stud3)*/
 
-let gameCounter=100;
+/*let gameCounter=100;
 gameCounter++;
-console.log(gameCounter);
+console.log(gameCounter);*/
+
+/*let myName="Sultan";
+let anotherName="Muhammad";
+console.log(myName);
+console.log(anotherName);*/
+
+let userOne={
+    emailAdress:"email@google.com",
+    address:"Karachi"   
+    
+}
+
+let userTwo=userOne
+userTwo.emailAdress="detail@google.com"
+
+console.log(userOne.emailAdress);
+console.log(userTwo.emailAdress);
