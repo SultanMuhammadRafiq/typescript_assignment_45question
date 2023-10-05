@@ -116,3 +116,19 @@ console.log("Your Grade  is A-");
 }else(percent<=65){
     console.log("Your Grade is E" );
 }*/
+// Ticketing system
+/*let country=prompt("Where do you live?");
+let age=Number(prompt("Whats is your Age ? "));
+
+if(country==="Pakistan"){
+if(age>=18){
+    console.log("Here is your Ticket")
+}else{
+    console.log("Age Restriction")
+}
+   
+}*/
+// Array 
+var fruits = ["Apple", "Banana", "Orange", "Grapes", "Strawberry"];
+console.log(fruits);
+console.table(fruits);

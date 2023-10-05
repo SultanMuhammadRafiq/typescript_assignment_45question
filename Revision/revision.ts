@@ -137,9 +137,23 @@ console.log("Your Grade  is A-");
 }*/
     
     
+// Ticketing system
+  
 
+/*let country=prompt("Where do you live?");
+let age=Number(prompt("Whats is your Age ? "));
 
+if(country==="Pakistan"){
+if(age>=18){
+    console.log("Here is your Ticket")
+}else{
+    console.log("Age Restriction")
+} 
+   
+}*/
 
+// Array 
 
-
+/*let fruits=["Apple","Banana","Orange","Grapes","Strawberry","Mango","Kiwi"]
+console.log(fruits);*/
 
