@@ -129,6 +129,5 @@ if(age>=18){
    
 }*/
 // Array 
-var fruits = ["Apple", "Banana", "Orange", "Grapes", "Strawberry"];
-console.log(fruits);
-console.table(fruits);
+/*let fruits=["Apple","Banana","Orange","Grapes","Strawberry","Mango","Kiwi"]
+console.log(fruits);*/
