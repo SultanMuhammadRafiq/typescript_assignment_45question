@@ -1,4 +1,3 @@
-"use strict";
 /*for(var i=1;i<101;i++){
     console.log("Student ID #", i)
 }*/
@@ -69,12 +68,15 @@ for(var h=0;h<=4;h++) {
     break;
   }
 }*/
-var firstNames = ["BlueRay ", "Upchuck ", "Lojack ", "Gizmo ", "Do-Rag "];
-var lastNames = ["Zzz", "Burp", "Dogbone", "Droop"];
-var fullNames = [];
-for (var i = 0; i < firstNames.length; i++) {
-    for (var j = 0; j < lastNames.length; j++) {
-        fullNames.push(firstNames[i] + lastNames[j]);
-    }
+// var firstNames = ["BlueRay ", "Upchuck ", "Lojack ", "Gizmo ", "Do-Rag "];
+// var lastNames = ["Zzz", "Burp", "Dogbone", "Droop"];
+// var fullNames = [];
+// for (var i = 0; i < firstNames.length; i++) {
+//   for (var j = 0; j < lastNames.length; j++) {
+//     fullNames.push(firstNames[i] + lastNames[j]);
+//   }
+// }
+// console.log(fullNames);
+for (var i = 1; i <= 45; i++) {
+    console.log("Typescript Exercise #", i);
 }
-console.log(fullNames);
